@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Hola Cambio JPMSS
+    //Cambio en clases 
 
     public void irRegistro(View view){
         Intent intent = new Intent(this,Registro.class);
