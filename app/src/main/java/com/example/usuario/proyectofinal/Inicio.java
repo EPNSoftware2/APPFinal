@@ -14,7 +14,7 @@ public class Inicio extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_inicio);
     }
-    //bjbjjbjbbjbjb
+    //mmamamamamam
     public void irLineas(View view){
         Intent intent = new Intent(this,Listalineas.class);
     }
