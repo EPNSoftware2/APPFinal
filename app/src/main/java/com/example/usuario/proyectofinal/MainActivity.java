@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //Hola Cambio JPMSS
+
     public void irRegistro(View view){
         Intent intent = new Intent(this,Registro.class);
         startActivity(intent);
